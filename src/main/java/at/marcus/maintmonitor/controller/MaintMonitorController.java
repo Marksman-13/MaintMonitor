@@ -10,7 +10,6 @@ public class MaintMonitorController {
 
     public String message="noError";
 
-
     @GetMapping("/maintMode/")
     public ResponseEntity<String> displayMessage() {
         return new ResponseEntity<>(message, HttpStatus.OK);

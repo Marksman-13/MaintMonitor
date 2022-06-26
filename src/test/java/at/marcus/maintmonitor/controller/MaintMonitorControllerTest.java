@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 import java.io.IOException;
 import java.net.URL;
 import java.net.HttpURLConnection;
-import static org.junit.jupiter.api.Assertions.*;
 
 class MaintMonitorControllerTest {
 

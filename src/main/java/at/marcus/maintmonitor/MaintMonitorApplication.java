@@ -15,7 +15,4 @@ public class MaintMonitorApplication {
     public static void main(String[] args) {
         SpringApplication.run(MaintMonitorApplication.class, args);
     }
-
-
 }
- 
